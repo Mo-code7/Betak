@@ -6,7 +6,8 @@ class Assets {
   static const String assetsImagesOnBoarding2 = 'assets/images/onBoarding2.svg';
   static const String imagesFavebookIcon = 'assets/images/favebookIcon.svg';
   static const String imagesGoogleIcon = 'assets/images/googleIcon.png';
-  static const String imagesIconButtonArrow = 'assets/images/IconButtonArrow.svg';
+  static const String imagesIconButtonArrow =
+      'assets/images/IconButtonArrow.svg';
   static const String imagesLogo = 'assets/images/logo.svg';
   static const String imagesLogo1 = 'assets/images/logo1.svg';
   static const String imagesOnBoarding1 = 'assets/images/onBoarding1.png';
@@ -18,13 +19,16 @@ class Assets {
   static const String imagesHome = 'assets/images/homeIcon.png';
   static const String imagesPerson = 'assets/images/personIcon.png';
   static const String imagesTrack = 'assets/images/trackIcon.svg';
-  static const String imagesCategory1='assets/images/category1.png';
-  static const String imagesCategory2='assets/images/category2.png';
-  static const String imagesCategory3='assets/images/category3.png';
-  static const String imagesCategory4='assets/images/category4.png';
-  static const String imagesCategory5='assets/images/category5.png';
-  static const String imagesCategory6='assets/images/category6.png';
-  static const String imagesProduct='assets/images/product.png';
-  static const String imagesShoppingCart='assets/images/ShoppingCart.png';
-
+  static const String imagesCategory1 = 'assets/images/category1.png';
+  static const String imagesCategory2 = 'assets/images/category2.png';
+  static const String imagesCategory3 = 'assets/images/category3.png';
+  static const String imagesCategory4 = 'assets/images/category4.png';
+  static const String imagesCategory5 = 'assets/images/category5.png';
+  static const String imagesCategory6 = 'assets/images/category6.png';
+  static const String imagesProduct = 'assets/images/product.png';
+  static const String imagesShoppingCart = 'assets/images/ShoppingCart.png';
+  static const String facebookMessnger = 'assets/images/facebook-messenger.png';
+  static const String facebook = 'assets/images/Facebook_logo.png';
+  static const String google = 'assets/images/googleIcon.png';
+  static const String instgram = 'assets/images/Instagram_icon.png';
 }
